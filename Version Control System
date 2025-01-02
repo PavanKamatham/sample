@@ -1,0 +1,21 @@
+1. Version Control system records changes that made to code overtime in a special database called repository.
+2. This helps to see who has made what changes when and why. If any thing went wrong we can revert to previous revision easily using history.
+3. Without version control sytem we have to maintain mulitple folders like (v1.0/v1.1/v1.2) for every change and collabrate manullay to merge with multiple member changes.  
+
+There are 2 different categories in Version Control System
+	1. Centralized System:
+		The source code is centralized and teams work on codes by connecting to server.
+		The draw back with this approach is if the server is down, teams will not able to track history until it becomes online and make difficult to development. 
+		Example : SubVersioN
+	2. Distributed System:
+		The soruce code is distributed.
+		This means local copies are created in local machine with history and the teams can work offline and easily synchornize directly with others.
+		Example : Git, Mericural
+	
+Git Benifits:
+	OpenSource
+	SuperFast
+	Scalable
+	Cheap Branching/Merging
+	
+		
